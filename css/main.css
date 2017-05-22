@@ -107,6 +107,10 @@ input[placeholder] {
     font-style: italic;
 }
 
+input[placeholder]:focus {
+    text-align: left;
+}
+
 input[type="checkbox"],
 input[type="radio"] {
     float: left;
