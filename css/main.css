@@ -149,7 +149,7 @@ select option:disabled {
     input[type="text"],
     input[type="email"],
     select {
-        width: 560px;
+        width: 73%;
     }
     input[id="zip"] {
         width: 150px;
